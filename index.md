@@ -55,6 +55,8 @@ A.A. University Transfer Studies
 
 I created a this web page to show off my CV.  
 
+TKTest Ionic App app ID 3078090a seen from Ionic View
+
 ## Interpersonal skills
 * Well organized
 * Detail oriented 
@@ -62,17 +64,17 @@ I created a this web page to show off my CV.
 
 ## Experience
 
+`December 2013 - March 2015 & April 2016 - Present`
+
+__Sales Person at Swing's N Thing's  and Kite Flite__                               	 
+Demonstrated products, checked in shipments, helped train new sales people, open/close store.
+
+
 `May 2015 - April 2016`
 
 __Office Worker at Tiffany Structures__  
 Regularly used Excel, Word, and GoDaddy email to keep the managing partner aware of events. 
 Solved problems with work computers and email as they occurred. Worked with people from wide walks of life. 
-
-
-`December 2013 - March 2015 & April 2016 - Present`
-
-__Sales Person at Swing's N Thing's  and Kite Flite__                               	 
-Demonstrated products, checked in shipments, helped train new sales people, open/close store.
 
 `July 2012 – January 2013`
 
