@@ -46,6 +46,7 @@ A.A. University Transfer Studies
 * Mean Stack
 * Angular.js
 * SQL
+* MongoDB
 * Node.js
 * SPSS
 
@@ -55,7 +56,9 @@ A.A. University Transfer Studies
 
 I created a this web page to show off my CV.  
 
-TKTest Ionic App app ID 3078090a seen from Ionic View
+### APPS
+
+TKTest Ionic App app ID 3078090a seen from Ionic View. 
 
 Simple App with Login/Register to Keep Track Of Shipments Based on Company
 
