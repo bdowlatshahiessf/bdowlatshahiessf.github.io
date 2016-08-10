@@ -11,7 +11,7 @@ Hybrid Mobile App Development Student
 <div id="webaddress">
 <a href="mailto:">baubak@softstackfactory.org</a>
 |
-<i class="fa fa-github"></i> <a href="http://github.com/">my account</a>
+<i class="fa fa-github"></i> <a href="http://github.com/bdowlatshahiessf/">my account</a>
 |
 
 </div>
@@ -41,6 +41,9 @@ A.A. University Transfer Studies
 
 ## Technical skills
 
+While at Soft Stack Factory I learned the basic skills and concepts surrounding hybrid mobile app development, as well as how to communicate effectivly with other developers.
+
+
 * HTML and CSS
 * Javascript
 * Mean Stack
@@ -56,6 +59,10 @@ A.A. University Transfer Studies
 
 I created a this web page to show off my CV.  
 
+### Code Projects
+
+ http://codepen.io/Baubak/pen/JKNZqd
+
 ### APPS
 
 TKTest Ionic App app ID 3078090a seen from Ionic View. 
@@ -70,7 +77,9 @@ Simple App with Login/Register to Keep Track Of Shipments Based on Company
 
 ## Experience
 
+
 `December 2013 - March 2015 & April 2016 - Present`
+
 
 __Sales Person at Swing's N Thing's  and Kite Flite__                               	 
 Demonstrated products, checked in shipments, helped train new sales people, open/close store.
@@ -142,4 +151,4 @@ Roving security at sporting and entertainment events performing crowd control.
 
 
 * <i class="fa fa-envelope"></i> <a href="mailto:">baubak@softstackfactory.org</a><br />
-* <i class="fa fa-github"></i> <a href="http://github.com/">my account</a><br />
+* <i class="fa fa-github"></i> <a href="http://github.com/bdowlatshahiessf/">my account</a><br />
