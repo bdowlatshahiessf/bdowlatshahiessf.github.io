@@ -19,7 +19,7 @@ Hybrid Mobile App Development Student
 
 ## Currently
 
-Student at Soft Stack Factory 2016 Summer Cohort.
+I am currently a student in the Softstack Factory 2016 Summer Cohort. While at Softstack Factory I have learned the basic skills and concepts surrounding hybrid mobile app development in an agile enviornment, as well as how to communicate effectivly with other developers. The course work focused on use of Mean Stack which includes MongoDB, Express, Angulr.JS, and Node.JS to create full stack apps. I believe that with the skills that I have gained at Softstack Factory I have a strong understand of programming fundamentals and would be a great addition to your team.
 
 ## Education
 
@@ -31,7 +31,7 @@ Learning How to Program Hybrid Mobile Apps
 
 `2007`
 __San Diego State University, San Diego, CA__  
-B.A. Sociology /Emphasis in Crime and Control   May 2007
+B.A. Sociology /Emphasis in Crime and Control   
 
 `2005`
 __Grossmont College, El Cajon, CA__                                
@@ -41,17 +41,19 @@ A.A. University Transfer Studies
 
 ## Technical skills
 
-While at Soft Stack Factory I learned the basic skills and concepts surrounding hybrid mobile app development, as well as how to communicate effectivly with other developers.
 
 
-* HTML and CSS
+
+* HTML5 and CSS3
 * Javascript
 * Mean Stack
-* Angular.js
+* Angular.JS
 * SQL
 * MongoDB
-* Node.js
+* Node.JS
 * SPSS
+* GitHub
+* Cloud9
 
 ## Projects
 
