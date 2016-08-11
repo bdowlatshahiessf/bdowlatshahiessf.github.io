@@ -82,7 +82,8 @@ Simple App with Login/Register to Keep Track Of Shipments Based on Company
 ## Experience
 
 
-`Dec'13-Mar'15 & Apr'16-Present`
+`Dec'13-Mar'15 & `
+`Apr'16-Present`
   
   
 __Sales Person at Swing's N Thing's  and Kite Flite__                               	 
@@ -121,7 +122,8 @@ General retail sales, stocked supplies, opened/closed registers.
 
 
 
-`Nov'06–Jan'07 & Aug'07–Apr'08`
+`Nov'06–Jan'07 &`
+`Aug'07–Apr'08`
   
   
 __Senior Sales Associate at The Sharper Image__ 
@@ -143,7 +145,8 @@ __Security Guard at Shield Security__
 Responsible for site integrity, maintained regular record of observations & activities during the night.
 
 
-`Aug'04–Oct'04 & Mar'05–May'05`
+`Aug'04–Oct'04 &`
+`Mar'05–May'05`
   
   
 __Sales Representative at Dial America Marketing__     
