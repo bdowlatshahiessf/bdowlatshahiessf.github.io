@@ -46,7 +46,6 @@ A.A. University Transfer Studies
 
 *  HTML5 and CSS3
 *  Javascript
-*  Mean Stack
 *  Angular.JS
 *  Ionic
 *  SQL
