@@ -6,7 +6,7 @@ title: Baubak Dowlatshahie's CV
 ![Baubak](./media/21.png){:.avatar}
 
 # Baubak Dowlatshahie 
-Hybrid Mobile App Development Student<i class="fa fa-cog fa-spin"></i>
+Hybrid Mobile App Developer <i class="fa fa-cog fa-spin"></i>
 
 <div id="webaddress">
 <a href="mailto:">baubak@softstackfactory.org</a>
@@ -19,7 +19,7 @@ Hybrid Mobile App Development Student<i class="fa fa-cog fa-spin"></i>
 
 ## Currently <i class="fa fa-cog fa-spin" style="font-size:1.3em"> </i>
 
-I am currently a student in the Softstack Factory 2016 Summer Cohort. While at Softstack Factory I have learned the basic skills and concepts surrounding hybrid mobile app development in an agile enviornment, as well as how to communicate effectivly with other developers. The course work focused on use of Mean Stack which includes MongoDB, Express, Angular.JS, and Node.JS to create full stack apps. I believe that with the skills that I have gained at Softstack Factory that I have a strong understanding of programming fundamentals and would be a great addition to your team.
+I am currently a student in the Softstack Factory 2016 Summer Cohort. While at Softstack Factory I have learned the basic skills and concepts surrounding hybrid mobile app development, as well as how to communicate effectively with other developers. The course work focused on use of Mean Stack which includes MongoDB, Express, Angular.JS, and Node.JS to create full stack apps. I believe that with the skills that I have gained at Softstack Factory I have a strong understanding of programming fundamentals and would be a great addition to your team.
 
 ## Education <i class="fa fa-cog fa-spin" style="font-size:1.3em"> </i>
 
@@ -48,17 +48,18 @@ A.A. University Transfer Studies
 *  Javascript
 *  Mean Stack
 *  Angular.JS
+*  Ionic
 *  SQL
 * MongoDB
 * Node.JS
-*  SPSS
+* JSON
 *  GitHub
 *  Cloud9
 *  Balsamiq
 *  Strongloop
 *  Pivitol Tracker
 *  Microsoft Office Suite
-*  Ionic
+
 
 
 
@@ -66,14 +67,11 @@ A.A. University Transfer Studies
 
 ## Projects <i class="fa fa-cog fa-spin" style="font-size:1.3em"> </i>
 
-### CV
-
-This page was created to show potential employers my current skill level in programming in general, focusing on Javascript and Mean Stack in particular.  
+  
 
 ### Code Projects
 
 
-<a href="https://www.khanacademy.org/computer-programming/spin-off-of-orbiting-challenge-30/5501165856" target="_blank">Orbiting Challenge</a> This is the result of one of the challenges we had to complete to start learning at Softstack Factory, we where supposed to make an orbiting system with different colored objects that did not strike each other.
 
 <a href="http://codepen.io/Baubak/pen/JKNZqd"  target="_blank"> Calculator on Codepen</a> This project uses basic Angular.JS, and HTML, to make a simple working calculator with fun CSS.
 
@@ -82,7 +80,7 @@ This page was created to show potential employers my current skill level in prog
 
 ### APPS
 
-<a href="https://github.com/bdowlatshahiessf/TKTest" target="_blank">TKTest </a> Ionic App app ID 3078090a seen from Ionic View. In this app Mean Stack fundamentals where used to create a working client side interface and back-end. It uses MongoDB, Angular.JS, Strongloop, and Node.JS. The test gives the users a series of choices and presents them with a graph based on the choices made.
+<a href="https://github.com/bdowlatshahiessf/TKTest" target="_blank">TKTest </a> Ionic App app ID 3078090a seen from Ionic View. In this app Mean Stack fundamentals were used to create a working client side interface and back-end. It uses MongoDB, Angular.JS, Strongloop, and Node.JS. This is a personality profile test that gives the users a series of choices and presents them with a graph based on the choices made. The JSON in this App has been set up to allow internationalization.
 
 <a href="https://github.com/bdowlatshahiessf/finalproject" target="_blank"> A Simple App with Login/Register to Keep Track Of Shipments Based by Company. </a> This app uses Strongloop, Angular.JS, MongoDB, Node.JS, as well as having the capability to store images to the smartphone camer roll if taken through the app.
 
