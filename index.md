@@ -58,6 +58,7 @@ A.A. University Transfer Studies
 *  Strongloop
 *  Pivitol Tracker
 *  Microsoft Office Suite
+*  Ionic
 
 
 
@@ -72,7 +73,11 @@ This page was created to show potential employers my current skill level in prog
 ### Code Projects
 
 
+<a href="https://www.khanacademy.org/computer-programming/spin-off-of-orbiting-challenge-30/5501165856" target="_blank">Orbiting Challenge</a> This is the result of one of the challenges we had to complete to start learning at Softstack Factory, we where supposed to make an orbiting system with different colored objects that did not strike each other.
+
 <a href="http://codepen.io/Baubak/pen/JKNZqd"  target="_blank"> Calculator on Codepen</a> This project uses basic Angular.JS, and HTML, to make a simple working calculator with fun CSS.
+
+
 
 
 ### APPS
