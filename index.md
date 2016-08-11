@@ -5,8 +5,8 @@ title: Baubak Dowlatshahie's CV
 
 ![Baubak](./media/21.png){:.avatar}
 
-# Baubak Dowlatshahie <i class="fa fa-cog fa-spin"></i>
-Hybrid Mobile App Development Student
+# Baubak Dowlatshahie 
+Hybrid Mobile App Development Student<i class="fa fa-cog fa-spin"></i>
 
 <div id="webaddress">
 <a href="mailto:">baubak@softstackfactory.org</a>
