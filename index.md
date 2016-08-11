@@ -17,11 +17,11 @@ Hybrid Mobile App Development Student
 </div>
 
 
-## Currently<i class="fa fa-cog fa-spin" style="font-size:1.3em"></i>
+## Currently <i class="fa fa-cog fa-spin" style="font-size:1.3em"> </i>
 
 I am currently a student in the Softstack Factory 2016 Summer Cohort. While at Softstack Factory I have learned the basic skills and concepts surrounding hybrid mobile app development in an agile enviornment, as well as how to communicate effectivly with other developers. The course work focused on use of Mean Stack which includes MongoDB, Express, Angular.JS, and Node.JS to create full stack apps. I believe that with the skills that I have gained at Softstack Factory that I have a strong understanding of programming fundamentals and would be a great addition to your team.
 
-## Education
+## Education <i class="fa fa-cog fa-spin" style="font-size:1.3em"> </i>
 
 
 
@@ -39,7 +39,7 @@ A.A. University Transfer Studies
 
 
 
-## Technical Skills
+## Technical Skills <i class="fa fa-cog fa-spin" style="font-size:1.3em"> </i>
 
 
 
@@ -63,7 +63,7 @@ A.A. University Transfer Studies
 
 
 
-## Projects
+## Projects <i class="fa fa-cog fa-spin" style="font-size:1.3em"> </i>
 
 ### CV
 
@@ -82,12 +82,12 @@ This page was created to show potential employers my current skill level in prog
 <a href="https://github.com/bdowlatshahiessf/finalproject" target="_blank"> A Simple App with Login/Register to Keep Track Of Shipments Based by Company. </a> This app uses Strongloop, Angular.JS, MongoDB, Node.JS, as well as having the capability to store images to the smartphone camer roll if taken through the app.
 
 
-## Interpersonal skills
+## Interpersonal skills <i class="fa fa-cog fa-spin" style="font-size:1.3em"> </i>
 * Well organized
 * Detail oriented 
 * Excellent at Interpersonal Communication
 
-## Experience
+## Experience <i class="fa fa-cog fa-spin" style="font-size:1.3em"> </i>
 
 
 `Dec'13-Mar'15 & Apr'16-Present`
@@ -166,12 +166,12 @@ Roving security at sporting and entertainment events performing crowd control.
 
 
 
-## Leadership Experience
+## Leadership Experience <i class="fa fa-cog fa-spin" style="font-size:1.3em"> </i>
 
 * SDSU – Undergraduate Teaching Assistant for the Sociology Department.
 * Grossmont Community College – Assisted in coaching the Intermediate Fencing Class.
 
-## Links
+## Links <i class="fa fa-cog fa-spin" style="font-size:1.3em"> </i>
 
 
 * <i class="fa fa-envelope"></i> <a href="mailto:">baubak@softstackfactory.org</a><br />
