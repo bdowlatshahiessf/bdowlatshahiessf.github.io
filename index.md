@@ -69,7 +69,7 @@ I created a this web page to show off my CV.
 
 ### APPS
 
-TKTest Ionic App app ID 3078090a seen from Ionic View. 
+TKTest Ionic App app ID 3078090a seen from Ionic View. In this app Mean Stack fundamentals where used to create a working client side interface and back-end. It uses MongoDB, Angular.JS, Strongloop, and Node.JS. The test gives the users a series of choices and presents them with a graph based on the choices made.
 
 Simple App with Login/Register to Keep Track Of Shipments Based on Company
 
