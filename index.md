@@ -39,7 +39,7 @@ A.A. University Transfer Studies
 
 
 
-## Technical skills
+## Technical Skills
 
 
 
@@ -63,7 +63,9 @@ I created a this web page to show off my CV.
 
 ### Code Projects
 
- http://codepen.io/Baubak/pen/JKNZqd
+
+<a href="http://codepen.io/Baubak/pen/JKNZqd"> Calculator on Codepen</a>
+
 
 ### APPS
 
