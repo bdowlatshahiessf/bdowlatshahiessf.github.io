@@ -54,6 +54,14 @@ A.A. University Transfer Studies
 * SPSS
 * GitHub
 * Cloud9
+* Balsamiq
+* Strongloop
+* Pivitol Tracker
+* Microsoft Office Suite
+
+
+
+
 
 ## Projects
 
