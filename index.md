@@ -64,7 +64,7 @@ I created a this web page to show off my CV.
 ### Code Projects
 
 
-<a href="http://codepen.io/Baubak/pen/JKNZqd"> Calculator on Codepen</a>
+<a href="http://codepen.io/Baubak/pen/JKNZqd"> Calculator on Codepen</a> This project uses basic Angular.JS, and HTML, to make a simple working calculator with fun CSS.
 
 
 ### APPS
