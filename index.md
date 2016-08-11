@@ -11,7 +11,7 @@ Hybrid Mobile App Development Student
 <div id="webaddress">
 <a href="mailto:">baubak@softstackfactory.org</a>
 |
-<i class="fa fa-github"></i> <a href="http://github.com/bdowlatshahiessf/">my account</a>
+<i class="fa fa-github"></i> <a href="http://github.com/bdowlatshahiessf/"  target="_blank">my account</a>
 |
 
 </div>
@@ -64,7 +64,7 @@ I created a this web page to show off my CV.
 ### Code Projects
 
 
-<a href="http://codepen.io/Baubak/pen/JKNZqd"> Calculator on Codepen</a> This project uses basic Angular.JS, and HTML, to make a simple working calculator with fun CSS.
+<a href="http://codepen.io/Baubak/pen/JKNZqd"  target="_blank"> Calculator on Codepen</a> This project uses basic Angular.JS, and HTML, to make a simple working calculator with fun CSS.
 
 
 ### APPS
@@ -164,4 +164,4 @@ Roving security at sporting and entertainment events performing crowd control.
 
 
 * <i class="fa fa-envelope"></i> <a href="mailto:">baubak@softstackfactory.org</a><br />
-* <i class="fa fa-github"></i> <a href="http://github.com/bdowlatshahiessf/">my account</a><br />
+* <i class="fa fa-github"></i> <a href="http://github.com/bdowlatshahiessf/"  target="_blank">my account</a><br />
