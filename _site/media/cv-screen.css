@@ -93,6 +93,7 @@ code {
 p code {
 	position: absolute;
 	left: -15%;
+	font-size: 80%;
 	padding-top: 15;
 	padding-right: 7;
 	padding-bottom: 7;
