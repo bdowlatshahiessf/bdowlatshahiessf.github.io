@@ -5,7 +5,7 @@ title: Baubak Dowlatshahie's CV
 
 ![Baubak](./media/21.png){:.avatar}
 
-# Baubak Dowlatshahie <i class="fa fa-cog fa-spin"</i>
+# Baubak Dowlatshahie <i class="fa fa-cog fa-spin"></i>
 Hybrid Mobile App Development Student
 
 <div id="webaddress">
