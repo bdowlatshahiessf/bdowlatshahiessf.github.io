@@ -44,20 +44,20 @@ A.A. University Transfer Studies
 
 
 
-* HTML5 and CSS3
-* Javascript
-* Mean Stack
-* Angular.JS
-* SQL
-* MongoDB
-* Node.JS
-* SPSS
-* GitHub
-* Cloud9
-* Balsamiq
-* Strongloop
-* Pivitol Tracker
-* Microsoft Office Suite
+* <i class="fa-li fa fa fa-cogs"></i> HTML5 and CSS3
+*  <i class="fa-li fa fa fa-cogs"></i>Javascript
+* <i class="fa-li fa fa fa-cogs"></i> Mean Stack
+* <i class="fa-li fa fa fa-cogs"></i> Angular.JS
+* <i class="fa-li fa fa fa-cogs"></i> SQL
+* <i class="fa-li fa fa fa-cogs"></i> MongoDB
+* <i class="fa-li fa fa fa-cogs"></i> Node.JS
+* <i class="fa-li fa fa fa-cogs"></i> SPSS
+* <i class="fa-li fa fa fa-cogs"></i> GitHub
+* <i class="fa-li fa fa fa-cogs"></i> Cloud9
+* <i class="fa-li fa fa fa-cogs"></i> Balsamiq
+* <i class="fa-li fa fa fa-cogs"></i> Strongloop
+* <i class="fa-li fa fa fa-cogs"></i> Pivitol Tracker
+* <i class="fa-li fa fa fa-cogs"></i> Microsoft Office Suite
 
 
 
