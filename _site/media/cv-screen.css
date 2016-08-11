@@ -87,11 +87,19 @@ code {
 	font-size: 90%;
 	font-family: Menlo, monospace, sans-serif;
 	color: #aaa;
+	padding-top: 15;
+	padding-right: 7;
+	padding-bottom: 7;
+	padding-left: 15;
 }
 
 p code {
 	position: absolute;
 	left: -15%;
+	padding-top: 15;
+	padding-right: 7;
+	padding-bottom: 7;
+	padding-left: 15;
 }
 
 
