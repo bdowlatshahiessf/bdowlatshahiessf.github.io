@@ -82,7 +82,7 @@ Simple App with Login/Register to Keep Track Of Shipments Based on Company
 ## Experience
 
 
-`Dece '13 - Mar '15 & Apr '16 - Present`
+__Dece '13 - Mar '15 & Apr '16 - Present__
 
 
 
