@@ -59,7 +59,7 @@ A.A. University Transfer Studies
 
 ### CV
 
-I created a this web page to show off my CV.  
+This page was created to show potential employers my current skill level in programming in general, focusing on Javascript and Mean Stack in particular.  
 
 ### Code Projects
 
@@ -69,9 +69,9 @@ I created a this web page to show off my CV.
 
 ### APPS
 
-TKTest Ionic App app ID 3078090a seen from Ionic View. In this app Mean Stack fundamentals where used to create a working client side interface and back-end. It uses MongoDB, Angular.JS, Strongloop, and Node.JS. The test gives the users a series of choices and presents them with a graph based on the choices made.
+<a href="https://github.com/bdowlatshahiessf/TKTest" target="_blank">TKTest </a> Ionic App app ID 3078090a seen from Ionic View. In this app Mean Stack fundamentals where used to create a working client side interface and back-end. It uses MongoDB, Angular.JS, Strongloop, and Node.JS. The test gives the users a series of choices and presents them with a graph based on the choices made.
 
-Simple App with Login/Register to Keep Track Of Shipments Based by Company. This app uses Strongloop, Angular.JS, MongoDB, Node.JS, as well as having the capability to store images to the smartphone camer roll if taken through the app.
+<a href="https://github.com/bdowlatshahiessf/finalproject" target="_blank"> A Simple App with Login/Register to Keep Track Of Shipments Based by Company. </a> This app uses Strongloop, Angular.JS, MongoDB, Node.JS, as well as having the capability to store images to the smartphone camer roll if taken through the app.
 
 
 ## Interpersonal skills
