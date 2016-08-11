@@ -83,73 +83,74 @@ Simple App with Login/Register to Keep Track Of Shipments Based on Company
 
 
 `Dec'13-Mar'15 & Apr'16-Present`
-
-
-
+  
+  
 __Sales Person at Swing's N Thing's  and Kite Flite__                               	 
 Demonstrated products, checked in shipments, helped train new sales people, open/close store.
 
 
 `May'15-Apr'16`
- 
-  
-  
+   
+   
 __Office Worker at Tiffany Structures__  
 Regularly used Excel, Word, and GoDaddy email to keep the managing partner aware of events. 
 Solved problems with work computers and email as they occurred.  
 
-`Jul'12–Jan'13`
 
+`Jul'12–Jan'13`
   
   
 __Sales Person at Geppetto's__                                           
 Assisted customers to find products and handled return of products at three store locations.
 
- `Jun'11–Jul'12`
 
+
+ `Jun'11–Jul'12`
   
   
 __Sales Person/Key Holder at Learning Express Toys__                                  
 Trained new sales people, checked in inventory, assembled products, stayed on through closing of the store.
 
-`Jun'08–Mar'10` 
 
+
+`Jun'08–Mar'10` 
   
   
 __Clerk at Arco__                                                 
 General retail sales, stocked supplies, opened/closed registers.
 
-`Nov'06–Jan'07 & Aug'07–Apr'08`
 
+
+`Nov'06–Jan'07 & Aug'07–Apr'08`
   
   
 __Senior Sales Associate at The Sharper Image__ 
 Explained and demonstrated a wide range of products, and trained sales associates.
 
-`Jun'06 – Aug'06`
 
+
+`Jun'06 – Aug'06`
   
   
 __Senior Sales at The Discovery Channel Store__                             
 Demonstrated products to customers, merchandised products, opened/closed store, and dropped off bank deposits.
 
 
-`Mar'05–Aug'05`
-
+ `Mar'05–Aug'05`
   
   
 __Security Guard at Shield Security__                                      
 Responsible for site integrity, maintained regular record of observations & activities during the night.
 
-`Aug'04–Oct'04 & Mar'05–May'05`
 
+`Aug'04–Oct'04 & Mar'05–May'05`
   
   
 __Sales Representative at Dial America Marketing__     
 Called costumers from a warm contact list offering promotions.
 
- `Feb'03–Sept'05`
 
+ `Feb'03–Sept'05`
   
   
 __Security Guard at Elite Show Services__                              
