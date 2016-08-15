@@ -26,7 +26,7 @@ I am currently a student in the Softstack Factory 2016 Summer Cohort. While at S
 
 
 `2016`
-__Soft Stack Factory__  
+__Softstack Factory__  
 Learning How to Program Hybrid Mobile Apps
 
 `2007`
