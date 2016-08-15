@@ -92,7 +92,10 @@ A.A. University Transfer Studies
 ## Experience <i class="fa fa-cog fa-spin" style="font-size:1.3em"> </i>
 
 
-`Dec'13-Mar'15 & Apr'16-Present`
+`Dec'13-Mar'15 &
+  
+    
+Apr'16-Present`
   
   
 __Sales Person at Swing's N Thing's  and Kite Flite__                               	 
