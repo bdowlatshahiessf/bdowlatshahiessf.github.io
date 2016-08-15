@@ -137,7 +137,6 @@ General retail sales, stocked supplies, opened/closed registers.
 `Nov'06–Jan'07 & `
   
     
-
 `Aug'07–Apr'08`
   
   
@@ -162,7 +161,6 @@ Responsible for site integrity, maintained regular record of observations & acti
 
 `Aug'04–Oct'04 & `
   
-    
     
 `Mar'05–May'05`
   
