@@ -100,7 +100,6 @@ Demonstrated products, checked in shipments, helped train new sales people, open
 
 `May'15-Apr'16`
    
-   
 __Office Worker at Tiffany Structures__  
 Regularly used Excel, Word, and GoDaddy email to keep the managing partner aware of events. 
 Solved problems with work computers and email as they occurred.  
@@ -108,14 +107,11 @@ Solved problems with work computers and email as they occurred.
 
 `Jul'12–Jan'13`
   
-  
 __Sales Person at Geppetto's__                                           
 Assisted customers to find products and handled return of products at three store locations.
 
 
-
- `Jun'11–Jul'12`
-  
+`Jun'11–Jul'12`
   
 __Sales Person/Key Holder at Learning Express Toys__                                  
 Trained new sales people, checked in inventory, assembled products, stayed on through closing of the store.
@@ -124,14 +120,11 @@ Trained new sales people, checked in inventory, assembled products, stayed on th
 
 `Jun'08–Mar'10` 
   
-  
 __Clerk at Arco__                                                 
 General retail sales, stocked supplies, opened/closed registers.
 
 
-
 `Nov'06–Jan'07 & Aug'07–Apr'08`
-  
   
 __Senior Sales Associate at The Sharper Image__ 
 Explained and demonstrated a wide range of products, and trained sales associates.
@@ -139,7 +132,6 @@ Explained and demonstrated a wide range of products, and trained sales associate
 
 
 `Jun'06 – Aug'06`
-  
   
 __Senior Sales at The Discovery Channel Store__                             
 Demonstrated products to customers, merchandised products, opened/closed store, and dropped off bank deposits.
@@ -154,7 +146,7 @@ Responsible for site integrity, maintained regular record of observations & acti
 
 `Aug'04–Oct'04 & Mar'05–May'05`
   
-  
+ 
 __Sales Representative at Dial America Marketing__     
 Called costumers from a warm contact list offering promotions.
 
