@@ -96,12 +96,14 @@ A.A. University Transfer Studies
   
     
     
-
-
 `& `
   
     
+    
 `Apr'16-Present`
+  
+    
+    
   
   
 __Sales Person at Swing's N Thing's  and Kite Flite__                               	 
