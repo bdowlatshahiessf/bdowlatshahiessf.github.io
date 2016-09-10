@@ -19,7 +19,7 @@ Hybrid Mobile App Developer <i class="fa fa-cog fa-spin"></i>
 
 ## Currently <i class="fa fa-cog fa-spin" style="font-size:1.3em"> </i>
 
-I am currently a student in the Softstack Factory 2016 Summer Cohort. While at Softstack Factory I have learned the basic skills and concepts surrounding hybrid mobile app development, as well as how to communicate effectively with other developers. The course work focused on use of Mean Stack which includes MongoDB, Express, Angular.JS, and Node.JS to create full stack apps. I believe that with the skills that I have gained at Softstack Factory I have a strong understanding of programming fundamentals and would be a great addition to your team.
+I am currently looking for an entry level development position after completing the Softstack Factory 2016 Summer Cohort. While at Softstack Factory I learned the basic skills and concepts surrounding hybrid mobile app development, as well as how to communicate effectively with other developers. The course work focused on use of Mean Stack which includes MongoDB, Express, Angular.JS, and Node.JS to create full stack apps. I believe that with the skills that I have gained at Softstack Factory I have a strong understanding of programming fundamentals and would be a great addition to your team.
 
 ## Education <i class="fa fa-cog fa-spin" style="font-size:1.3em"> </i>
 
