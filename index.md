@@ -27,7 +27,7 @@ I am currently looking for an entry level development position after completing 
 
 `2016`
 __Softstack Factory__  
-Learning How to Program Hybrid Mobile Apps
+Certificate of Completion of the Softstack Factory Coding Bootcamp
 
 `2007`
 __San Diego State University, San Diego, CA__  
