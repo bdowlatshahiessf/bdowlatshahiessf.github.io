@@ -92,7 +92,7 @@ A.A. University Transfer Studies
 ## Experience <i class="fa fa-cog fa-spin" style="font-size:1.3em"> </i>
 
 
-`Dec'13-Mar'15 &  Apr'16-Present`
+`Dec'13-Mar'15 &  Apr'16-Oct'16`
   
 __Sales Person at Swing's N Thing's  and Kite Flite__                               	 
 Demonstrated products, checked in shipments, helped train new sales people, open/close store.
