@@ -92,6 +92,11 @@ A.A. University Transfer Studies
 ## Experience <i class="fa fa-cog fa-spin" style="font-size:1.3em"> </i>
 
 
+`Nov'16-Current`
+  
+__Sales Person at Figpickels Toy Emporium__                               	 
+Demonstrated products, and assisted customers.
+
 `Dec'13-Mar'15 &  Apr'16-Oct'16`
   
 __Sales Person at Swing's N Thing's  and Kite Flite__                               	 
